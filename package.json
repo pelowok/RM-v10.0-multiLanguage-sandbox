@@ -1,0 +1,27 @@
+{
+  "name": "rm-multilanguage-sandbox-v10-0",
+  "version": "10.0.0",
+  "description": "rm template for hubspot",
+  "main": "main.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pelowok/RM-v10.0-multiLanguage-sandbox.git"
+  },
+  "keywords": [
+    "rm",
+    "en",
+    "pcc",
+    "multi",
+    "language"
+  ],
+  "author": "mynameiszak.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pelowok/RM-v10.0-multiLanguage-sandbox/issues"
+  },
+  "homepage": "https://github.com/pelowok/RM-v10.0-multiLanguage-sandbox#readme",
+  "devDependencies": {
+    "bower": "^1.4.1"
+  }
+}
